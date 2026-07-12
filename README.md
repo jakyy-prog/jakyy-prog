@@ -1,4 +1,4 @@
-# Hi, I'm Vio 👋
+# Hi, I'm Vio Zaki 👋
 
 Undergraduate Informatics Engineering student, still learning and enjoy tinkering with small projects.
 
@@ -6,7 +6,7 @@ Undergraduate Informatics Engineering student, still learning and enjoy tinkerin
 
 - Undergraduate Informatics Engineering
 - Currently focused on web development & Discord bots
-- Enjoy playing Monster Hunter, run a small community (Freax Squad)
+- Enjoy playing Game
 - Sometimes tinker with a Minecraft SMP server with friends
 
 ## Tech I use
@@ -14,13 +14,16 @@ Undergraduate Informatics Engineering student, still learning and enjoy tinkerin
 - JavaScript / Node.js
 - discord.js
 - HTML, CSS
-- SQLite (for small projects)
+- SQLite
+- MySql
 - Git & GitHub
 
 ## Currently learning
 
 - Software engineering practices
+- Web Developing
 - Basic backend & database design
+- UI & UX Design
 
 ## Contact
 
